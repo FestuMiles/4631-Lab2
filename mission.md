@@ -1,1 +1,1 @@
-Mission Statement: We strive for innovation in technology. - Roy Mtonga
+Mission Statement: We strive for innovation in software engineering. - Roy Mtonga
